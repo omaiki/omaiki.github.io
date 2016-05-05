@@ -1,3 +1,11 @@
 body {
-  background: blue;
+  background: yellow;
+}
+
+.headerimg {
+  zoom: 50%
+}
+
+.headertext {
+font-size: small;
 }
