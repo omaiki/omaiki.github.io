@@ -1,11 +1,45 @@
+/* test
 body {
   background: yellow;
 }
 
-.headerimg {
-  zoom: 50%
+*/
+
+.wholepage {
+  background:white;
+}
+
+.headertext {
+font-size: larger;
+text-shadow: 5px;
+text-align: center;
+background-image: url(Oracle-Arena2.jpg);
+padding: 180px;
+color: white;
+font-weight: bold;
+margin: 10px;
 }
 
 .headertext {
 font-size: small;
+}
+
+.team {
+border: 2px solid black;
+padding: 5px;
+margin: 5px;
+}
+
+.Tshirt_link {
+  text-align: center;
+  display: block;
+  width: 100%;
+
+
+}
+
+.links {
+  text-align: center;
+  display: block;
+
 }
