@@ -24,12 +24,48 @@ margin: 10px;
 font-size: small;
 }
 
-.team {
+.warriors {
 border: 2px solid black;
 padding: 5px;
 margin: 5px;
-display: block;
+display: inline-block;
+width: 30%;
+vertical-align: top;
+font-weight: bold;
+background-image: url(warriors_logo.jpg);
+background-position: right;
+background-size: 40%;
+background-repeat: no-repeat;
 }
+
+.giants {
+border: 2px solid black;
+padding: 5px;
+margin: 5px;
+display: inline-block;
+width: 30%;
+vertical-align: top;
+font-weight: bold;
+background-image: url(giants_logo.jpg);
+background-position: right;
+background-repeat: no-repeat;
+}
+
+.niners {
+border: 2px solid black;
+padding: 5px;
+margin: 5px;
+display: inline-block;
+width: 30%;
+vertical-align: top;
+font-weight: bold;
+background-image: url(niners_logo.jpg);
+background-size:50%;
+background-position: right;
+background-repeat: no-repeat;
+}
+
+
 
 .Tshirt_link {
   text-align: center;
@@ -42,7 +78,11 @@ display: block;
 .links {
   text-align: center;
   display: block;
+}
 
+.formlink {
+  position: relative;
+  text-align: center;
 }
 
 ul {
