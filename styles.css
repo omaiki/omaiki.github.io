@@ -106,16 +106,17 @@ li {
   font-style: italic;
 }
 
-@media screen and (max-width: 400 px){
+@media screen and (max-width: 400px){
   .warriors{
     display: block;
-    
+    width: 50%;
   }
   .niners{
     display: block;
-    
+    width: 50%;
   }
   .giants{
     display:block;
-    
+    width: 50%;
+  }
 }
