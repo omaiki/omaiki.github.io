@@ -1,0 +1,18 @@
+#blue {
+  color: #27c2dc;
+}
+
+@media only screen and (max-width: 460px) {
+  #resume-first-link {
+    margin-bottom: 5%;
+  }
+}
+
+/*[id*="project-"]:hover {
+  background-color: red;
+  background: url("http://imgur.com/xDQAOms");
+}*/
+
+/*#project-1:hover {
+  background: url("http://i.imgur.com/xDQAOms.png");
+}*/
