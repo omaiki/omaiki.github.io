@@ -1,1 +1,0 @@
-# omaiki.github.io
