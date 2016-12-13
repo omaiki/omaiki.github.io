@@ -99,6 +99,8 @@ nav bar hover*/
   z-index: 10;
 }
 
+
+
 /* Declare heights because of positioning of img element */
 .carousel .item {
   height: 500px;
@@ -116,13 +118,17 @@ nav bar hover*/
   height: 700px;
 }
 .carousel-inner > .item > .second-slide {
-  height: 600px;
+  height: 700px;
 }
 .carousel-inner > .item > .third-slide {
-  height: 500px;
+  height: 700px;
 }
 .carousel-inner > .item > .fourth-slide {
-  height: 800px;
+  height: 700px;
+}
+
+.carousel-inner > .item > .fifth-slide {
+  height: 700px;
 }
 
 /*Image Hover*/
