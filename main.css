@@ -5,10 +5,10 @@
 body {
   padding-bottom: 40px;
   color: #DEE2E2;
-  background-image: url("assets/img/blue-background.jpg");
+  /*background-image: url("assets/img/blue-background.jpg");*/
 /*  background-repeat: no-repeat;*/
   background-attachment: fixed;
-  background-color: #34495e;
+  /*background-color: #34495e;*/
 }
 
 
@@ -99,7 +99,7 @@ body {
 }
 
 /*Image Hover*/
-.item img 
+.item img
 {
   max-width: 100%;
   -moz-transition: all 2.5s;
@@ -108,7 +108,7 @@ body {
 /*  width:250px;
   height:220px;*/
 }
-.item:hover img 
+.item:hover img
 {
  -moz-transform: scale(1.3);
  -webkit-transform: scale(1.3);
